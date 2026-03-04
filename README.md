@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e2f11ec2-6eb3-481d-a4c7-2ab23a7f6d25" />
+
+https://github.com/user-attachments/assets/590390c6-22c1-4405-9e4c-36ab31de6d7a
+
+
 
 
 I am Kenji Tundag, I am an aspiring System Administrator and Game Developer currently in my 3rd year in College.
