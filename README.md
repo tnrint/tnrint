@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/f5b5b7d4-c8f1-4e9a-b916-1e8552a3c7b0" width="500" height="500">
 
-I am Kenji Tundag, I am an interested in System Administration and Game Developer currently in my 3rd year in College. I am currently Learning Linux based System Administration.
+I am Kenji Tundag, I am interested in System Administration and Game Developing currently in my 3rd year in College. I am currently Learning Linux based System Administration.
 
 # Current Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,arduino,c,figma,godot,nextjs,nodejs,postman,supabase,windows)](https://skillicons.dev)
