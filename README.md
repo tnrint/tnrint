@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![cmv4svfp4qag1 (1)](https://github.com/user-attachments/assets/6f288e53-332c-469e-a166-f9b9b470d20e)
+<img src="https://github.com/user-attachments/assets/6f288e53-332c-469e-a166-f9b9b470d20e" height="500" width="500">
 
 I am Kenji Tundag, I am interested in System Administration and Game Developing currently in my 3rd year in College. I am currently Learning Linux based System Administration.
 
